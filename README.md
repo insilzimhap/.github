@@ -1,6 +1,5 @@
-# .github
 <p align="center">
-  <img src="sinabro/assets/img/icon/시나브로.png" width="100%" alt="시나브로 로고"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%8B%9C%EB%82%98%EB%B8%8C%EB%A1%9C.png" width="100%" alt="시나브로 로고"/>
 </p>
 
 <h1 align="center">📚 시나브로: 아이들의 마음에 스며드는 AI 한글 학습</h1>
@@ -11,7 +10,7 @@
 ## 🌱 1. 개발 배경
 
 <p align="center">
-  <img src="sinabro/assets/img/icon/개발배경.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EA%B0%9C%EB%B0%9C%EB%B0%B0%EA%B2%BD.png" width="100%"/>
 </p>
 
 1. 유아기의 언어 지체는 학습 부진과 사회적 소외를 초래할 수 있으나, 기존 교육은 학령기에 집중되어 있습니다.
@@ -22,7 +21,7 @@
 
 ## 🧒 2. 레벨 테스트
 <p align="center">
-  <img src="sinabro/assets/img/icon/레벨테스트.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EB%A0%88%EB%B2%A8%ED%85%8C%EC%8A%A4%ED%8A%B8.png" width="100%"/>
 </p>
 
    
@@ -32,7 +31,7 @@
 
 ### 🎧 3-1. 듣기 학습
 <p align="center">
-  <img src="sinabro/assets/img/icon/듣기학습.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EB%93%A3%EA%B8%B0%ED%95%99%EC%8A%B5.png" width="100%"/>
 </p>
 
 - 선행 연구 기반 생활형 콘텐츠  
@@ -41,7 +40,7 @@
 
 ### ✏️ 3-2. 쓰기 학습
 <p align="center">
-  <img src="sinabro/assets/img/icon/쓰기학습.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%93%B0%EA%B8%B0%ED%95%99%EC%8A%B5.png" width="100%"/>
 </p>
 
 - 필기 인식 AI 기술이 실시간으로 정답 여부 판별
@@ -50,7 +49,7 @@
 
 ### 🎮 3-3. 듣기 게임
 <p align="center">
-  <img src="sinabro/assets/img/icon/듣기게임.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EB%93%A3%EA%B8%B0%EA%B2%8C%EC%9E%84.png" width="100%"/>
 </p>
 
 - 청각 ↔ 시각 매칭 카드 선택 게임  
@@ -58,7 +57,7 @@
 
 ### 🎮 3-4. 쓰기 게임
 <p align="center">
-  <img src="sinabro/assets/img/icon/쓰기게임.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%93%B0%EA%B8%B0%EA%B2%8C%EC%9E%84.png" width="100%"/>
 </p>
 
 - 청각 ↔ 시각 ↔ 촉각매칭 활동
@@ -68,7 +67,7 @@
 
 ### ⭐ 3-5. 보상 및 도감 시스템
 <p align="center">
-  <img src="sinabro/assets/img/icon/보상.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EB%B3%B4%EC%83%81.png" width="100%"/>
 </p>
 
 - 스티커 획득  
@@ -80,7 +79,7 @@
 ## 👨‍👩‍👧 4. 부모 페이지
 
 <p align="center">
-  <img src="sinabro/assets/img/icon/부모페이지.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EB%B6%80%EB%AA%A8%ED%8E%98%EC%9D%B4%EC%A7%80.png" width="100%"/>
 </p>
 
 - 다국어 UI 지원  
@@ -94,19 +93,19 @@
 
 ### 🤖 1. GPT-4o-mini: AI 학습 리포트
 <p align="center">
-  <img src="sinabro/assets/img/icon/지피티.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%A7%80%ED%94%BC%ED%8B%B0.png" width="100%"/>
 </p>
 
 #### 1-1.부모 화면 
 <p align="center">
-  <img src="sinabro/assets/img/icon/지피티상세.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%A7%80%ED%94%BC%ED%8B%B0%EC%83%81%EC%84%B8.png" width="100%"/>
 </p>
 
 ---
 
 ### 🌍 2. Google Translate API
 <p align="center">
-  <img src="sinabro/assets/img/icon/구글번역.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EA%B5%AC%EA%B8%80%EB%B2%88%EC%97%AD.png" width="100%"/>
 </p>
 
 - 보호자 언어 설정 기반 자동 번역  
@@ -116,7 +115,7 @@
 
 ### ✍️ 3. Selvy Pen SDK
 <p align="center">
-  <img src="sinabro/assets/img/icon/셀비펜.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%85%80%EB%B9%84%ED%8E%9C.png" width="100%"/>
 </p>
 
 - 필기 스트로크 기반 인식  
@@ -128,7 +127,7 @@
 ## Architecture
 
 <p align="center">
-  <img src="sinabro/assets/img/icon/아키텍처.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png" width="100%"/>
 </p>
 
 세 가지 기술(GPT · Translate · Pen SDK)을 연결하여  
@@ -137,10 +136,13 @@
 
 ---
 
-## ERD
+## 📊 ERD
 <p align="center">
-  <img src="sinabro/assets/img/icon/erd.png" width="100%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/erd1.png" width="30%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/erd2.png" width="30%"/>
+  <img src="https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/img/icon/erd3.png" width="30%"/>
 </p>
+
 
 ---
 
@@ -193,4 +195,10 @@
 - 📘 **졸업 논문**  
   👉 [논문 다운로드](https://YOUR_LINK_HERE)
 
-—
+## 🧑‍🧑‍🧒‍🧒 팀 소개
+
+| **백엔드** | **백엔드** | **프론트엔드** | **프론트엔드** | **프론트엔드** |
+|-----------|-----------|----------------|----------------|----------------|
+| <a href="https://github.com/SJHawa">심정화</a> | <a href="https://github.com/mchae123">문채영</a> | <a href="https://github.com/yeonsssu">조연수</a> | <a href="https://github.com/parksmin">박성민</a> | <a href="https://github.com/roxxny">김세란</a> |
+
+
