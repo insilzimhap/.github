@@ -184,13 +184,13 @@
 # 📄 프로젝트 문서
 
 - 🎞 **최종 발표 PPT**  
-  👉 [최종발표_PPT](./시나브로_최종본.pdf)
+  👉 [최종발표_PPT](https://github.com/insilzimhap/Sinabro-Frontend/blob/main/%E1%84%89%E1%85%B5%E1%84%82%E1%85%A1%E1%84%87%E1%85%B3%E1%84%85%E1%85%A9_%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A9%E1%86%BC%E1%84%87%E1%85%A9%E1%86%AB.pdf)
 
 - 🎨 **Figma**  
   👉 [인실짐합 Figma 바로가기](https://www.figma.com/design/X243XO41NYDwC0B6wtYjln/%EC%9D%B8%EC%8B%A4%EC%A7%90%ED%95%A9-%EC%B5%9C%EC%A2%85?node-id=155-23&p=f)
 
 - 📘 **포스터**  
-  👉 [2025_컴퓨터소프트웨어공학과_경진대회_포스터](sinabro/assets/file/2025_경진대회_포스터발표양식_인실짐합_컴퓨터소프트웨어공학과.pdf)
+  👉 [2025_컴퓨터소프트웨어공학과_경진대회_포스터](https://github.com/insilzimhap/Sinabro-Frontend/blob/main/sinabro/assets/file/2025_%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C_%ED%8F%AC%EC%8A%A4%ED%84%B0%EB%B0%9C%ED%91%9C%EC%96%91%EC%8B%9D_%EC%9D%B8%EC%8B%A4%EC%A7%90%ED%95%A9_%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B3%B5%ED%95%99%EA%B3%BC.pdf)
 
 - 📘 **졸업 논문**  
   👉 [논문 다운로드](https://YOUR_LINK_HERE)
