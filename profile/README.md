@@ -165,7 +165,9 @@
 <p>
   <img src="https://img.shields.io/badge/OpenAI_GPT_API-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selvy_Pen_SDK-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Translate_API-4285F4?style=for-the-badge&logo=GoogleTranslate&logoColor=white"/>
 </p>
+
 
 ### **Infra**
 <p>
